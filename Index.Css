@@ -1,0 +1,11 @@
+body {
+    background-color: #0F1728;
+    color: white;
+    font-family: proxima nova;
+}
+
+.btn-primary {
+    margin: 2vh;
+    --bs-btn-color: #0F1728;
+    --bs-btn-bg:white;
+}
